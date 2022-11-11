@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @MapieMamunhe
-- 👀 I’m interested in Coding challenges, Guitar and Anime...
-- 🌱 I’m currently learning React and Other JS Frameworks...
-- 💞️ I’m looking to collaborate on new Projects...
-- See my [Portfolio](https://my-portfolio-mapiemamunhe.vercel.app/) website
-
-
+See my [Portfolio](https://my-portfolio-mapiemamunhe.vercel.app/) website
 [![Linkedin Badge](https://img.shields.io/badge/-MapieMamunhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mamunhe/)](https://www.linkedin.com/in/Mamunhe/)
 [![Gmail Badge](https://img.shields.io/badge/-mmamunhe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmamunhe@gmail.com)](mailto:mmamunhe@gmail.com)
+
+## Hi There👋 
+I’m Mapie, I'm a senior student of Software Engineering at Joaquim Chissano University, i've been coding since I had 16😊, I consider myself an analyst 👉👈, for always wanting to use the right tools for the right job😤, although lately i've grown to like more and more frontend development with react and typeScript..
+
+- 
 
 
 ## ⚡ I know these Technologies
