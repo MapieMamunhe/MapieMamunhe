@@ -3,12 +3,13 @@ See my [Portfolio](https://my-portfolio-mapiemamunhe.vercel.app/) website
 [![Gmail Badge](https://img.shields.io/badge/-mmamunhe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmamunhe@gmail.com)](mailto:mmamunhe@gmail.com)
 
 ## Hi There👋 
-I’m Mapie, I'm a senior student of Software Engineering at Joaquim Chissano University, i've been coding since I had 16😊, I consider myself an analyst 👉👈, for always wanting to use the right tools for the right job😤, although lately i've grown to like more and more frontend development with react and typeScript..
+I’m Mapie, I'm a senior student of Software Engineering at Joaquim Chissano University, i've been writing code since I had 16😊.
+I consider myself an analyst 👉👈 for always wanting to use the right tools for the right job😤, although lately i've grown to like more and more frontend development with react and typeScript..
 
 - 
 
 
-## ⚡ I know these Technologies
+## ⚡ Here goes some of what I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
