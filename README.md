@@ -7,9 +7,13 @@
 I’m Mapie, I'm a senior student of Software Engineering at Joaquim Chissano University, i've been writing code since I had 16😊.
 I consider myself an analyst 👉👈 for always wanting to use the right tools for the right job😤, although lately i've grown to like more and more frontend development with react and typeScript..
 
-## ⚡ Here goes some of what I know
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+<div align="center">
+  
+  ## ⚡ Here goes some of what I know
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -22,15 +26,20 @@ I consider myself an analyst 👉👈 for always wanting to use the right tools 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  
+  ## But I prefer...
+[![Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=MapieMamunhe&layout=compact&langs_count=8&theme=radical)](https://github.com/MapieMamunhe/github-readme-stats)
+
+## This is how I have been behaving lately
+![Mapie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapieMamunhe&show_icons=true&theme=radical)
+  
+  
+ </div>
 <!---
 MapieMamunhe/MapieMamunhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## But I prefer...
-[![Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=MapieMamunhe&layout=compact&langs_count=8&theme=radical)](https://github.com/MapieMamunhe/github-readme-stats)
 
-## This is how I have been behaving lately
-![Mapie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapieMamunhe&show_icons=true&theme=radical)
 
 ![Snake gif](https://github.com/MapieMamunhe/MapieMamunhe/blob/output/github-snake-dark.svg)
