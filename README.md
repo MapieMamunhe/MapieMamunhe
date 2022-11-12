@@ -32,3 +32,5 @@ You can click the Preview link to take a look at your changes.
 
 ## This is how I have been behaving lately
 ![Mapie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapieMamunhe&show_icons=true&theme=radical)
+
+![Snake gif](https://github.com/MapieMamunhe/MapieMamunhe/blob/output/github-contribution-grid-snake.gif)
