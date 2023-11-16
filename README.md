@@ -4,9 +4,9 @@
 ## See my [Portfolio](https://my-portfolio-mapiemamunhe.vercel.app/) website
 
 ## Hi There👋 
-I’m Mapie, I'm a senior student of Software Engineering at Joaquim Chissano University, i've been writing code since I had 16😊.
+I’m Mapie, I'm a Software Engineering graduate at Joaquim Chissano University, i've been writing code since I had 16😊.
 I consider myself an analyst 👉👈 for always wanting to use the right tools for the right job😤, although lately i've grown to like more and more frontend development with react and typeScript..
-
+I also do a lot of backend with PHP and Java (Spring) for enterprise solutions.
 
 
 <div align="center">
